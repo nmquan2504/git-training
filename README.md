@@ -6,4 +6,6 @@
 # version 5.0 feature 3
 
 # Fixed defect 01 (1) (2)
+# Fixed defect 02 (1) (2)
 # Fixed defect 03 (1) (2) (3)
+
